@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import matplotlib.pyplot as plt
+#TODO CHANGE THIS TO YOUR MODEL
 from NeuralNetwork import NeuralNetwork
 
 model = NeuralNetwork()
@@ -28,7 +29,7 @@ plt.ylabel("y")
 plt.grid()
 
 #Weight and Bias from training process
-
+#TODO UPDATE THIS WITH YOUR MODEL'S WEIGHTS AND BIASES
 # w = 
 # b = 
 
